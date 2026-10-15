@@ -8,7 +8,6 @@ body_class: off-campus-page
 
 <link rel="stylesheet" href="{{ '/assets/css/hobby.css' | relative_url }}">
 
-<p class="hobby-intro">Life outside engineering, through a camera and along the open road.</p>
 
 <div class="hobby-grid">
 {% for hobby in site.data.hobbies %}

@@ -7,20 +7,23 @@
 #     location: Location · Year
 - id: photography
   title: Photography
-  description: Light, details, and everyday moments.
   photos: []
 
 - id: road-trips
   title: Road Trips
-  description: Open roads and stops along the way.
   photos: []
 
 - id: national-parks
   title: National Parks
-  description: Landscapes, trails, and wide-open spaces.
-  photos: []
+  photos:
+  - image: /images/hobby/my-national-parks-map.png
+      alt: National Parks i've visited.
+      caption: National Parks i've visited.
 
 - id: across-america
   title: Across America
-  description: Cities, small towns, and places in between.
-  photos: []
+  photos:
+  - image: /images/hobby/states.svg
+      alt: States i've visited.
+      caption: States i've visited.
+  
