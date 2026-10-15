@@ -9,6 +9,14 @@ author_profile: true
 **Purdue University · Aug 2026–Present**  
 Advisor: Prof. Junjie Qin
 
+<figure>
+  <img
+    src="{{ '/images/research/ba2bus.png' | relative_url }}"
+    alt="BA-to-bus disaggregation of EIA-930 hourly demand for synthetic grids."
+    style="width: 100%; height: auto;"
+    loading="lazy">
+</figure>
+
 Investigating grid hosting capacity for large-load integration, including data centers.
 
 - Disaggregated EIA-930 hourly balancing-authority demand into bus-level load profiles for synthetic grids.

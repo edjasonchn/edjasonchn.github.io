@@ -1,0 +1,26 @@
+# Add real photos to each list to replace that gallery's preview placeholders.
+# Put files in images/hobby/ and use this format:
+# photos:
+#   - image: /images/hobby/your-photo.jpg
+#     alt: A short description of what is visible in the photo
+#     caption: Your photo title
+#     location: Location · Year
+- id: photography
+  title: Photography
+  description: Light, details, and everyday moments.
+  photos: []
+
+- id: road-trips
+  title: Road Trips
+  description: Open roads and stops along the way.
+  photos: []
+
+- id: national-parks
+  title: National Parks
+  description: Landscapes, trails, and wide-open spaces.
+  photos: []
+
+- id: across-america
+  title: Across America
+  description: Cities, small towns, and places in between.
+  photos: []
