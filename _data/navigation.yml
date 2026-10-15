@@ -8,23 +8,18 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "About"
+    url: /
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Research"
+    url: /research/
     
   - title: "CV"
-    url: /cv/
+    url: /files/Shengdong_Xue_CV.pdf
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Presentations"
+    url: /presentations/
+
+  - title: "Off Campus"
+    url: /hobby/
+  
