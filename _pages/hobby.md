@@ -23,7 +23,7 @@ body_class: off-campus-page
       {% if hobby.photos.size > 0 %}
         {% for photo in hobby.photos %}
         <figure class="hobby-slide" role="group" aria-roledescription="slide" aria-label="{{ forloop.index }} of {{ forloop.length }}">
-          <img src="{{ photo.image | relative_url }}" alt="{{ photo.alt | escape }}" loading="lazy" decoding="async" width="960" height="640">
+          <img src="{{ photo.image | relative_url }}" alt="{{ photo.alt | escape }}" loading="lazy" decoding="async" width="960" height="720">
           <figcaption><span>{{ photo.caption | escape }}</span>{% if photo.location %}<span class="hobby-slide__location">{{ photo.location | escape }}</span>{% endif %}</figcaption>
         </figure>
         {% endfor %}
