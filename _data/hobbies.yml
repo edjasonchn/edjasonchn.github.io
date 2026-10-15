@@ -16,14 +16,14 @@
 - id: national-parks
   title: National Parks
   photos:
-  - image: /images/hobby/my-national-parks-map.png
+    - image: /images/hobby/my-national-parks-map.png
       alt: National Parks i've visited.
       caption: National Parks i've visited.
 
 - id: across-america
   title: Across America
   photos:
-  - image: /images/hobby/states.svg
+    - image: /images/hobby/states.svg
       alt: States i've visited.
       caption: States i've visited.
   
